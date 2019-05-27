@@ -1,0 +1,31 @@
+<style>
+title
+{
+  color: Green;
+  text-align: cemter;
+}
+form
+{
+  bachground-color: grey;
+  width: 500px;
+  height: 400px;
+  margin: 35px;
+  padding: 20px;
+}
+table
+{
+  font-family: cursive;
+  font-size: 20px;
+  font-weight: bold;
+}
+table
+{
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid black;
+border-collapse: collapse;
+text-align: center;
+}
+</style>
